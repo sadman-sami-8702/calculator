@@ -1,0 +1,15 @@
+body{
+    background-color: #81eff7;
+}
+
+.container {
+    padding: 20px 20px 20px 20px;
+}
+
+.card-header {
+    background-color: #c7c4bb;
+}
+
+.card-footer {
+    background-color: #c7c4bb;
+}
